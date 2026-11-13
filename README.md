@@ -1,6 +1,6 @@
-#  Záhada Temného lesa
+#  Záhada Tajemného lesa
 
-Záhada Temného lesa je jednoduchá textová dobrodružná hra vytvořená v Jupyter notebooku.
+Záhada Tajemného lesa je jednoduchá textová dobrodružná hra vytvořená v Jupyter notebooku.
 
 #  O hře
 Hráč se ocitne v tajemném lese, ze kterého se snaží dostat ven. Během cesty musí dělat různá rozhodnutí, řešit matematické příklady a překonávat nebezpečné překážky.
@@ -13,8 +13,3 @@ Každé rozhodnutí může ovlivnit pokračování příběhu. Cílem je přež�
 - Jednoduchý inventář
 - Různé cesty, výhry a konce hry
 - Kontrola správného zadávání odpovědí
-
-#  Jak spustit hru
-1. Nainstaluj si Python 3.
-2. Stáhni soubor `zahada_temneho_lesa.py`.
-3. Spusť ho pomocí příkazu:
